@@ -8,18 +8,16 @@
 
 ### 🚀 Featured Projects
 
-#### 📸 [Image Editor 2](https://atirath-pal.github.io/Image-Editor-2/)
+#### 1. 📸 [Image Editor 2](https://atirath-pal.github.io/Image-Editor-2/)
 * **Live Demo:** 👉 [https://atirath-pal.github.io/Image-Editor-2/](https://atirath-pal.github.io/Image-Editor-2/)
 * **Source Code:** 💻 [https://github.com/Atirath-Pal/Image-Editor-2](https://github.com/Atirath-Pal/Image-Editor-2)
 * **About:** A high-performance, mobile-first photo editor built with **Vanilla JavaScript** and the **Canvas API**. It enables real-time filtering and editing directly in the browser with 100% client-side processing for maximum speed and user privacy.
-
----
 
 ### 🛠️ Tech Stack & Skills
 * **Languages:** JavaScript (ES6+), HTML5, CSS3
 * **Tools:** Git, GitHub Pages, Canvas API manipulation
 * **Focus:** Responsive UI/UX & Frontend Performance
-
+---
 ### 📫 How to reach me:
 * **LinkedIn:** [Atirath Pal](https://www.linkedin.com/in/atirath-pal-95163b28a/)
 * **Email:** atirathpal@gmail.com
